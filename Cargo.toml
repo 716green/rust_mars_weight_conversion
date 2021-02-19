@@ -1,5 +1,5 @@
 [package]
-name = "hello_world"
+name = "mars_weight_conversion"
 version = "0.1.0"
 authors = ["Bob Bass <bob@bbass.co>"]
 edition = "2018"
